@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ListView_Optimization_using_ViewHolder_175%</string>
+
+
+    <string-array name="title" >
+
+        <item> Sharon </item>
+        <item> Haroon </item>
+        <item> Harloom </item>
+        <item> Peter </item>
+        <item> Mark </item>
+        <item> Larry </item>
+        <item> Justin </item>
+        <item> Gloran </item>
+        <item> Harry </item>
+        <item> Glory </item>
+
+    </string-array>
+
+
+    <string-array name="titledes">
+
+        <item> Hi! How are you </item>
+        <item> Hi! how is life? </item>
+        <item> Hi! How is ur wife? </item>
+        <item> Hi! How is ur dog? </item>
+        <item> Hi! How is ur dad? </item>
+        <item> Hi! How about lunch? </item>
+        <item> Hi! How abt dinner? </item>
+        <item> Hi! How about brunch? </item>
+        <item> Hi! How about lunch? </item>
+        <item> Hi! How about pizza? </item>
+
+
+    </string-array>
+
+
+
+</resources>
